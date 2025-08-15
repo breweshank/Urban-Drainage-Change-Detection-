@@ -64,7 +64,6 @@ urban_drainage_change_detection/
     ├── example_overlay.jpg
 ```
 ## 🧠 **Model Details**
-
 - Architecture: UNet (Encoder-Decoder)
 - Encoder: 4 down-sampling blocks
 - Decoder: 4 up-sampling blocks with skip connections
@@ -73,3 +72,11 @@ urban_drainage_change_detection/
 - Learning Rate: 1e-4
 - Batch Size: 4–8 (depending on GPU memory)
 ## 📌 **Example Output**
+- **Sample Result 1**
+ <img src="Screenshot 2025-08-16 015359.png" alt="Segmentation Output" width="750">
+- Sample Result 2
+ <img src="Screenshot 2025-08-16 015150.png" alt="Segmentation Output" width="750">
+ 
+ 
+ 
+
