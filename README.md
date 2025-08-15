@@ -76,7 +76,30 @@ urban_drainage_change_detection/
  <img src="Screenshot 2025-08-16 015359.png" alt="Segmentation Output" width="750">
 - Sample Result 2
  <img src="Screenshot 2025-08-16 015150.png" alt="Segmentation Output" width="750">
- 
+
+
+## 📌 Applications
+This tool can be used in:
+- Urban Planning & Development – Detecting infrastructure changes to guide city planning.
+- Flood Risk Assessment – Identifying blocked or altered drainage networks that could cause waterlogging.
+- Disaster Management – Monitoring post-disaster drainage damage for rapid repair.
+- Environmental Monitoring – Detecting unauthorized construction or encroachment in drainage areas.
+- Smart Cities – Integrating with IoT-based flood sensors for real-time updates.
+- Research & Academia – Studying urbanization effects on drainage systems.
+
+## 🚀 Advantages
+- Automated Detection – Reduces manual inspection effort and time.
+- High Accuracy – Uses deep learning to detect subtle changes not visible to the human eye.
+- User-Friendly – Simple GUI with no coding required.
+- Multi-Format Support – Works with PNG, JPEG, and TIFF imagery.
+- Customizable – Trainable with your own datasets for different regions or image sources.
+- Visualization – Clear red overlay highlights changes instantly.
+- Performance Flexibility – Runs on both CPU and GPU environments
+- Scalable – Can be integrated into larger city management dashboards.
+## 👨‍💻 Author
+- Eshank Ryshabh
+  - 📧 ryshabheshank@gmail.com
+  - 🔗 GitHub Profile [Profile Link](https://github.com/breweshank)
  
  
 
