@@ -63,3 +63,13 @@ urban_drainage_change_detection/
     ├── example_after.jpg
     ├── example_overlay.jpg
 ```
+## 🧠 **Model Details**
+
+- Architecture: UNet (Encoder-Decoder)
+- Encoder: 4 down-sampling blocks
+- Decoder: 4 up-sampling blocks with skip connections
+- Loss (training): BCEWithLogitsLoss + Dice Loss
+- Optimizer: Adam
+- Learning Rate: 1e-4
+- Batch Size: 4–8 (depending on GPU memory)
+## 📌 **Example Output**
